@@ -1,5 +1,5 @@
 # 💫 About Me:
-Information system student college<br>Full-time learner<br>Interested in fullstack
+Information system student college.<br>Full-time learner.<br>Interested in fullstack.<br>Love to learn something new.
 
 
 # 💻 Tech Stack:
